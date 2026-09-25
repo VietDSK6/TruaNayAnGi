@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#8FB4A8</color>
+    <color name="primary_dark">#132A24</color>
+    <color name="on_primary">#142A24</color>
+    <color name="on_primary_muted">#35574D</color>
+    <color name="background_color">#18231F</color>
+    <color name="surface_color">#202D28</color>
+    <color name="hero_background">#294C42</color>
+    <color name="hero_text">#F5F0E4</color>
+    <color name="hero_text_muted">#C0D1CA</color>
+    <color name="food_image_background">#766B4E</color>
+    <color name="text_primary">#EEEAE0</color>
+    <color name="text_secondary">#B5BEB9</color>
+    <color name="outline_color">#53625C</color>
+    <color name="category_background">#635C45</color>
+    <color name="category_text">#F2E7C7</color>
+    <color name="danger_color">#D99788</color>
+    <color name="result_background">#635C45</color>
+    <color name="chili_red">#C77A6B</color>
+    <color name="turmeric_yellow">#C4A967</color>
+    <color name="paper_dark">#34423D</color>
+    <color name="wheel_orange">#D9682C</color>
+    <color name="wheel_red">#B94848</color>
+    <color name="wheel_green">#3D7C55</color>
+    <color name="wheel_blue">#39739D</color>
+    <color name="wheel_purple">#73549A</color>
+    <color name="wheel_brown">#8C5E43</color>
+    <color name="wheel_separator">#1C120E</color>
+    <color name="wheel_text">#FFFFFF</color>
+</resources>

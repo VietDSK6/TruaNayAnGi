@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Sạp Trưa</string>
+    <string name="app_title">Sạp Trưa</string>
+    <string name="app_subtitle">Mở sạp mỗi ngày</string>
+    <string name="hero_title">Hôm nay ăn gì?</string>
+    <string name="hero_message">Món nóng lên sạp. Chọn nhanh, ăn ngon.</string>
+    <string name="poster_eyebrow">Trưa nay ăn gì? • Menu mỗi ngày</string>
+    <string name="poster_title">SẠP\nTRƯA</string>
+    <string name="poster_stamp">MỞ SẠP\n10:30\n— 14:00</string>
+    <string name="hero_emoji" translatable="false">🍱</string>
+    <string name="search_emoji" translatable="false">🔎</string>
+    <string name="minus_symbol" translatable="false">−</string>
+    <string name="plus_symbol" translatable="false">+</string>
+    <string name="menu_title">Món hôm nay</string>
+    <string name="menu_count">09 MÓN</string>
+    <string name="menu_subtitle">Chạm vào món ăn để xem chi tiết</string>
+    <string name="search_food">Tìm kiếm món ăn</string>
+    <string name="search_title">Sạp Trưa / Tìm món</string>
+    <string name="search_poster_title">Bạn muốn ăn gì?</string>
+    <string name="search_hint">Nhập tên món, ví dụ: pizza</string>
+    <string name="search_result_title">Món trên sạp</string>
+    <string name="empty_food_title">Không tìm thấy món ăn phù hợp.</string>
+    <string name="empty_food_message">Hãy thử một từ khóa khác nhé!</string>
+    <string name="food_item_content_description">%1$s, giá %2$s. Chạm để xem chi tiết.</string>
+    <string name="detail_title">Sạp Trưa / Chi tiết</string>
+    <string name="detail_eyebrow">Món đang lên sạp</string>
+    <string name="description_label">Mô tả</string>
+    <string name="ingredients_label">Thành phần</string>
+    <string name="quantity_label">Số lượng</string>
+    <string name="quantity_hint">Chọn từ 1 đến 99 phần</string>
+    <string name="decrease_quantity">Giảm số lượng</string>
+    <string name="increase_quantity">Tăng số lượng</string>
+    <string name="quantity_value">Số lượng: %1$d</string>
+    <string name="total_label">Thành tiền</string>
+    <string name="order_now">Đặt món</string>
+    <string name="order_success">Đặt món thành công!</string>
+    <string name="add_food">Thêm món</string>
+    <string name="edit_food">Sửa món ăn</string>
+    <string name="open_wheel">Quay chọn món</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete_food_title">Xóa món ăn?</string>
+    <string name="delete_food_message">Bạn có chắc muốn xóa “%1$s” không?</string>
+    <string name="no_description">Chưa có mô tả</string>
+    <string name="form_intro">Nhập thông tin món ăn để thêm vào danh sách lựa chọn.</string>
+    <string name="food_name">Tên món</string>
+    <string name="food_price">Giá</string>
+    <string name="food_category">Loại món</string>
+    <string name="food_description">Mô tả</string>
+    <string name="save_food">Lưu món ăn</string>
+    <string name="name_required">Vui lòng nhập tên món</string>
+    <string name="category_required">Vui lòng nhập loại món</string>
+    <string name="price_invalid">Giá phải là số nguyên không âm</string>
+    <string name="food_saved">Đã lưu món ăn</string>
+    <string name="save_failed">Không thể lưu món ăn</string>
+    <string name="food_not_found">Không tìm thấy món ăn</string>
+    <string name="wheel_title">Vòng quay món ăn</string>
+    <string name="wheel_intro">Bấm quay và để vòng quay chọn món giúp bạn.</string>
+    <string name="wheel_content_description">Vòng quay danh sách món ăn</string>
+    <string name="wheel_empty_title">Chưa có món để quay</string>
+    <string name="wheel_empty_message">Quay lại danh sách và thêm ít nhất một món ăn</string>
+    <string name="today_eat">HÔM NAY ĂN</string>
+    <string name="start_spin">Quay ngay</string>
+    <string name="spinning">Đang quay…</string>
+    <string name="spin_again">Quay lại</string>
+</resources>

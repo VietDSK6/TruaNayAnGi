@@ -1,0 +1,20 @@
+<resources>
+    <style name="Base.Theme.TruaNayAnGi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/category_background</item>
+        <item name="colorOnPrimaryContainer">@color/category_text</item>
+        <item name="colorSecondary">@color/wheel_green</item>
+        <item name="colorOnSecondary">@color/on_primary</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOutline">@color/outline_color</item>
+        <item name="colorError">@color/danger_color</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+    </style>
+</resources>
